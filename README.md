@@ -1,2 +1,2 @@
 # Small-project-
-Small projects  about  basic pointer 
+Small projects  about  basic pointer in C  
